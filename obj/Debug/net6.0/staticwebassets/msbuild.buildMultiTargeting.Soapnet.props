@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Soapnet.props" />
+</Project>
