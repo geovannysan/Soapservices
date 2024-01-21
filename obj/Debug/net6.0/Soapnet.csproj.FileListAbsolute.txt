@@ -28,11 +28,6 @@ C:\Users\kaku\Soapnet\obj\Debug\net6.0\Soapnet.csproj.CoreCompileInputs.cache
 C:\Users\kaku\Soapnet\obj\Debug\net6.0\Soapnet.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\kaku\Soapnet\obj\Debug\net6.0\Soapnet.RazorAssemblyInfo.cache
 C:\Users\kaku\Soapnet\obj\Debug\net6.0\Soapnet.RazorAssemblyInfo.cs
-C:\Users\kaku\Soapnet\obj\Debug\net6.0\staticwebassets\msbuild.Soapnet.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\kaku\Soapnet\obj\Debug\net6.0\staticwebassets\msbuild.build.Soapnet.props
-C:\Users\kaku\Soapnet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Soapnet.props
-C:\Users\kaku\Soapnet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Soapnet.props
-C:\Users\kaku\Soapnet\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\kaku\Soapnet\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\kaku\Soapnet\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\kaku\Soapnet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
