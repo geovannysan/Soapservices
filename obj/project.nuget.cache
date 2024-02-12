@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Ikt5fJ9Qn/VHu7G9rMsh7/0ziMVo1i+koPtaxxkanaeEYdhBLJfhzi7gx624ozvqdCRhN3s1WxAw10kCAUDbMA==",
+  "dgSpecHash": "ZJ2ZGY/fLzhmiY1gTH7w9WFd1UgNg0PQSHwoaisOkrDwT1NhWSW4DR5emJQx5KmnwQvgCiiqAYrFKQYp0hjVCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\kaku\\Soapnet\\Soapnet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kaku\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\kaku\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\kaku\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\kaku\\.nuget\\packages\\soapcore\\1.1.0.39\\soapcore.1.1.0.39.nupkg.sha512",
     "C:\\Users\\kaku\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
     "C:\\Users\\kaku\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",

@@ -39,3 +39,4 @@ C:\Users\kaku\Soapnet\obj\Debug\net6.0\refint\Soapnet.dll
 C:\Users\kaku\Soapnet\obj\Debug\net6.0\Soapnet.pdb
 C:\Users\kaku\Soapnet\obj\Debug\net6.0\Soapnet.genruntimeconfig.cache
 C:\Users\kaku\Soapnet\obj\Debug\net6.0\ref\Soapnet.dll
+C:\Users\kaku\Soapnet\bin\Debug\net6.0\Newtonsoft.Json.dll
