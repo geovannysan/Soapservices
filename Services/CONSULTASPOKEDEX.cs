@@ -29,7 +29,7 @@ namespace Soapnet.Services
                
                 Console.WriteLine(id);
                 string resp = await response.Content.ReadAsStringAsync();
-                var result = JsonConvert.DeserializeObject<Root>(resp);
+                var result = JsonConvert.DeserializeObject<Root>(resp) ??  new Root();
                 Console.WriteLine("Respuesta: \n" + resp.ToString());
                 return result;
 
@@ -37,7 +37,7 @@ namespace Soapnet.Services
             catch (System.Exception)
             {
 
-                return null;
+                return new Root();
             }
         }
 
