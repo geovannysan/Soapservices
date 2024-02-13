@@ -8,7 +8,7 @@ using Soapnet.Services;
 
 namespace Soapnet.Soaapfolder
 {
-    [ServiceContract]
+    [ServiceContract(Namespace = "http://Microsoft.ServiceModel.Samples")]
     public interface ISoapService
     {
         [OperationContract]
